@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\Assembly Proj\AssemblerApplication5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Assembly Proj\AssemblerApplication5\Debug\AssemblerApplication5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication5.map</FILE>
+  <FILE>AssemblerApplication5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>24</LINE></MAIN>
+  <EX0_ISR><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>78</LINE></EX0_ISR>
+  <CAR_MODE><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>40</LINE></CAR_MODE>
+  <DELAY_30s><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>83</LINE></DELAY_30s>
+  <PERSON_MODE><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>60</LINE></PERSON_MODE>
+  <L6><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>85</LINE></L6>
+  <DELAY><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>90</LINE></DELAY>
+  <B1><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>95</LINE></B1>
+  <AGIN><FILE>D:\Assembly Proj\AssemblerApplication5\main.asm</FILE><LINE>97</LINE></AGIN>
+ </LABELS>
+</ASSEMBLER_INFO>
